@@ -68,9 +68,7 @@ A tree-based regression model predicts **quantity sold** using:
 
 Elasticity is computed using a **1% price change simulation**:
 
-[
-\text{Elasticity} = \frac{\Delta Q / Q}{\Delta P / P}
-]
+**Elasticity = (ΔQ / Q) ÷ (ΔP / P)**
 
 **Findings:**
 
@@ -100,9 +98,7 @@ For a selected product:
 * Revenue calculated
 * Profit computed using:
 
-[
-\text{Profit} = (\text{Price} - \text{Cost}) \times \text{Quantity}
-]
+**Profit = (Price − Cost) × Quantity**
 
 > This produces a **profit curve**, showing the **profit-maximizing price**.
 
@@ -142,11 +138,5 @@ Example output:
 * Reinforcement learning for automated re-pricing
 * Promotion/POS uplift modeling
 
+
 ---
-
-## Author
-
-**Bijay @ bijay-odyssey**
-ML enthusiast specializing in retail analytics, pricing science, and demand forecasting.
-
---
